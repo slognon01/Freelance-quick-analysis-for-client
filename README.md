@@ -12,3 +12,8 @@ Job Requirements:
     make a graph that shows the # of logins by day
     make a line graph that shows the # of times each unique email logged in
     pie chart of which browsers are used and which operating system
+    
+Libraries: 
+- pandas
+- numpy
+- matplotlib
